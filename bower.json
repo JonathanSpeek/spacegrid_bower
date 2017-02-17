@@ -1,0 +1,17 @@
+{
+  "name": "spacegrid",
+  "authors": [
+    "Jonathan Speek"
+  ],
+  "description": "A basic, responsive grid layout to help you get started on your next project.",
+  "main": "./spacegrid.css",
+  "license": "MIT",
+  "homepage": "http://github.com/jonathanspeek/spacegrid_bower",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
